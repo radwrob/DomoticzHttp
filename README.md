@@ -5,7 +5,10 @@ An example alarm demo based on Arduino and Domoticz. Json API and the HTTP proto
 * Arduino Ethernet Shield 2
 * 3 x DS18B20
 * DHT11
-##Screens
-![alt text](image/summary.jpg "Summary")
-![alt text](image/floorplan.jpg "Floorplan")
-![alt text](image/log.jpg "Log")
+## Screens
+* System summary 
+![System summary](image/summary.JPG "Summary")
+* Floorplan
+![Floorplan](image/floorplan.JPG "Floorplan")
+* DHT11 log
+![DHT11 log](image/log.JPG "Log")
