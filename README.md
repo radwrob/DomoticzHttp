@@ -1,5 +1,5 @@
 # DomoticzHttp
-An example alarm demo based on Arduino and Domoticz. Json API and the HTTP protocol are used to communicate with the Domoticz platform. Communication between the card and the server is full-duplex. In order to update the server data, the card uses the pooling method every period defined by the user.
+An example alarm demo based on Arduino and Domoticz. Json API and the HTTP protocol are used to communicate with the Domoticz platform. Communication between the Arduino platform and the server is full-duplex. In order to update the server data, the Arduino platform uses the pooling method every period defined by the user.
 ## Used
 * Arduino Uno Rev3
 * Arduino Ethernet Shield 2
